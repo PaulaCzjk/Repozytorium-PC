@@ -175,11 +175,10 @@ Door textures are overlapping the player.
 
 ## Screeny z przykładowych zadań testowych
 
-[![Alt text](/PaulaCzjk/Repozytorium-PC/blob/main/img.jpg?raw=true "Optional Title")](https://github.com/PaulaCzjk/Repozytorium-PC/blob/45e64d9f5c0a3105911fb950caac813afd91b63c/postman.png)
+https://github.com/PaulaCzjk/Repozytorium-PC/blob/45e64d9f5c0a3105911fb950caac813afd91b63c/postman.png
+![Postman](/PaulaCzjk/Repozytorium-PC/blob/45e64d9f5c0a3105911fb950caac813afd91b63c/postman.png)
 
-[https://gitlab.com/PaulaCzjk/test/-/blob/5f186ded7e776a84780d89b9b0adf13f69123177/postman.png
-](url)
-[](url)
+
 ## Zainteresowania
 Testowanie to nie wszystko, w wolnym czasie jestem zaciętym graczem w grach typu Moba, MMO RPG i Single Player.
 
