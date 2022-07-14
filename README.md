@@ -2,10 +2,10 @@
 # Repozytorium Paula Czajkowska
 
 ## O mnie
+![176982335_10224321537801088_3169134262275383238_n2](https://user-images.githubusercontent.com/95175912/178973793-7d77dab5-e9e1-41ba-84be-6cd403b897ed.jpg)
+
 Cześć, nazywam się Paula Czajkowska, jestem początkującym testerem oprogramowania, w tym miejscu chciałbym podzielić się z Tobą moim doświadczeniem oraz projektami, które miałam dotychczas przyjemność wykonać. 
 <center>
-
-![profile](img/profile.jpg)
 
 </center>
 
@@ -17,18 +17,14 @@ Miałam przyjemność uczestniczyć w kursie "Tester oprogramowania" organizowan
 <center>
 
 [Certyfikat szkolenia](https://app.diplomasafe.com/pl-PL/diploma/d5113e3c90933e5bcff2bbb27e50a49617e654521)
+![certyfikat1](https://user-images.githubusercontent.com/95175912/178974516-c39be1ce-d819-444e-b292-e81fb0bfe9e3.png)
+![certyfikat2](https://user-images.githubusercontent.com/95175912/178974606-6d055eaf-05bf-4503-a05a-16aedc4c0145.png)
+
+
 
 </center>
 
-Sprawnie będę poruszała się także w projektach zwinnych, dzięki zajęciom wprowadzających do metodyki Scrum:
-
-<center>
-
-![profile](img/scrum_certificate.png)
-
-</center>
-
-## Git oraz HTTP
+## Git oraz API
 W czasie kursu nauczyłam się nie tylko testować, ale rozwijałam swoje umiejętności w wielu kierunkach między innymi:
 
 * Nauczyłam się pracy z Narzędziem GIT (oraz Gitlab)
