@@ -184,7 +184,8 @@ Testowanie to nie wszystko, w wolnym czasie jestem zaciętym graczem w grach typ
 
 <center>
 
-![mtb](img/mtb.jpg)
+![image1](https://user-images.githubusercontent.com/95175912/178975147-60a5e6bb-9358-4a5f-b710-626ee67e7f59.png)
+
 
 </center>
 
