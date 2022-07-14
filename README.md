@@ -176,7 +176,7 @@ Door textures are overlapping the player.
 ## Screeny z przykładowych zadań testowych
 
 https://github.com/PaulaCzjk/Repozytorium-PC/blob/45e64d9f5c0a3105911fb950caac813afd91b63c/postman.png
-![ScreenShot](https://raw.github.com/{PaulaCzjk}/{Repozytorium-PC}/{blob}/{45e64d9f5c0a3105911fb950caac813afd91b63c})
+![ScreenShot](https://raw.github.com/PaulaCzjk/Repozytorium-PC/blob/45e64d9f5c0a3105911fb950caac813afd91b63c)
 
 
 ## Zainteresowania
