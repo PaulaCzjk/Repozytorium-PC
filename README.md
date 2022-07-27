@@ -66,7 +66,7 @@ W czasie kursu przygotowywaliśmy się do egzaminu ISTQB Foundation Level, do kt
 
 <center>
 
-Użycie dla strony avans.pl 
+Dla strony avans.pl 
 
 Przykład 1
 1. Użytkownik klika przycisk Konto
@@ -118,6 +118,7 @@ Przykład 2
 6. System przyjmuje prośbę rejestracji i wysyła wiadomość powitalną na podany adres mailowy.
 7. Konto zostaje utworzone poprawnie	
 
+Dla strony electro.pl
 - Go on electro.pl
 - Click the Account button
 - Click the Register button
